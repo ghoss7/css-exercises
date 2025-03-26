@@ -1,0 +1,18 @@
+.p-font-size {
+    font-size: 24px;
+}
+
+.p-style {
+    background: rgb(255, 209, 223);
+    font-family: 'Verdana', DejaVu Sans sans-serif;
+}
+
+#uni-blue {
+    color: #0023ff;
+    font-size: 36px;
+}
+
+#uni-green {
+    background: hsl(120, 77%, 54%);
+    font-weight: bold;
+}
